@@ -1,1 +1,3 @@
-# GBI6_ExamenParcial1-
+# GBI6_ExamenParcial1
+## Datos personales 
+- 
